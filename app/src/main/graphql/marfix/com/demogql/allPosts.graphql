@@ -1,0 +1,6 @@
+query allLegsQuery{
+  allLegs{
+    passengerCount
+    aircraft
+  }
+}
